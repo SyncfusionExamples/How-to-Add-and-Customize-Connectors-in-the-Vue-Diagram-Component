@@ -1,6 +1,6 @@
 # How to Add and Customize Connectors in the Vue Diagram Component
 
-A quick start Vue project that shows how to add connectors in the Syncfusion [Vue Diagram](https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-diagram-connectors-sample) component. This project includes code snippets for adding a connector both programmatically and using the drawing tool. It also includes code snippets for adding different types of connectors and decorator shapes.
+A quick start Vue project that shows how to add connectors in the Syncfusion&reg; [Vue Diagram](https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-diagram-connectors-sample) component. This project includes code snippets for adding a connector both programmatically and using the drawing tool. It also includes code snippets for adding different types of connectors and decorator shapes.
 
 Watch the video: https://www.syncfusion.com/tutorial-videos/vue/diagram?title=how-to-add-and-customize-connectors-in-the-vue-diagram 
 
